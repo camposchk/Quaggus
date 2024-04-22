@@ -1,0 +1,38 @@
+.navbar-styling {
+    width: 430px;
+    height: 83px;
+    flex-shrink: 0;
+    border-radius: 0px 0px 0px 0px;
+    background: #ffffff70;
+    position: fixed;
+    bottom: 0;
+}
+
+.icons-styling {
+    width: 40px;
+    height: 40px;
+    flex-shrink: 0;
+    position: fixed;
+    bottom: 0;
+    margin-bottom: 21px;
+}
+
+.icons-styling:nth-child(1) {
+    margin-left: 20px;
+}
+
+.icons-styling:nth-child(2) {
+    margin-left: 105px;
+}
+
+.icons-styling:nth-child(3) {
+    margin-left: 191px;
+}
+
+.icons-styling:nth-child(4) {
+    margin-left: 278px;
+}
+
+.icons-styling:nth-child(5) {
+    margin-left: 366px;
+}

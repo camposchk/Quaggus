@@ -1,0 +1,23 @@
+:root {
+  font-family: "Roboto", sans-serif;
+  --color-text: rgb(37, 37, 37);
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  scroll-behavior: smooth;
+}
+
+button {
+  transition: all 200ms ease-in;
+}
+
+button:hover {
+  cursor: pointer;
+  transition: all 200ms ease-out;
+}

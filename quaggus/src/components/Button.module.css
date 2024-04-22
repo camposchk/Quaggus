@@ -1,0 +1,11 @@
+.btn-styling {
+    background-color: black;
+    color: white;
+}
+
+@media (width >= 1024px) {
+    .btn-styling {
+        background-color: black;
+        color: brown;
+    }
+}
