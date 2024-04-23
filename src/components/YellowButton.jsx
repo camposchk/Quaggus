@@ -1,6 +1,6 @@
-import style from "./Button.module.css"
+import style from "./YellowButton.module.css"
 
-export const Button = (props) => {
+export const YellowButton = (props) => {
     return(
         <button className={style["btn-styling"]}>{props.text}</button>
     )

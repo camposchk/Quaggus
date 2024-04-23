@@ -5,7 +5,9 @@
     width: 100vw;
     padding-top: 1.56rem;
     display: flex;
-    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
 }
 
 .box-login{
@@ -15,7 +17,8 @@
     border-radius: 1.25rem;
     background: var(--background-opacity);
     display: flex;
-    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 .login-text{
@@ -28,4 +31,49 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    margin-bottom: 1rem;
+}
+
+.forget-password{
+    align-self: flex-end;
+    margin-right: 1.7rem;
+    margin-top: 0.5rem;
+    color: #000;
+    font-family: Roboto;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.division{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 0.7rem;
+    width: 90vw;
+}
+
+.line{
+    width: 10.28088rem;
+    height: 0.125rem;
+    background: rgba(0, 0, 0, 0.50);
+    border: none;
+}
+
+.ou{
+    color: rgba(0, 0, 0, 0.50);
+    font-family: Roboto;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-bottom: 0.1rem;
+}
+
+.buttons{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 30vh;
 }

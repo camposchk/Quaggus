@@ -1,0 +1,15 @@
+.btn-styling {
+    width: 17.64888rem;
+    height: 3.08425rem;
+    flex-shrink: 0;
+    border-radius: 1.25rem;
+    background: #E9D051;
+    border: none;
+    color: #000;
+    font-family: Roboto;
+    font-size: 1.75rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 2.5rem;
+}

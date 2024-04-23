@@ -1,13 +1,15 @@
 .label-input{
     color: #000;
     font-family: Roboto;
-    font-size: 20px;
+    font-size: 1.25rem;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    width: 63px;
-    height: 21px;
+    width: 5rem;
+    height: 1.3125rem;
     flex-shrink: 0;
+    margin-left: 1.2rem;
+    margin-bottom: 0.3rem;
 }
 
 .input{
@@ -16,4 +18,11 @@
     flex-shrink: 0;
     border-radius: 1.5625rem;
     background: rgba(128, 98, 252, 0.50);
+    border: none;
+}
+
+.center{
+    display: flex;
+    flex-direction: column;
+    padding-top: 2rem;
 }
