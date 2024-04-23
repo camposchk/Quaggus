@@ -1,0 +1,6 @@
+.background {
+    width: 430px;
+    height: 932px;
+    flex-shrink: 0;
+    background-image: url("./assets/Backgrounds/Background3.png");
+}

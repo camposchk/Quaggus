@@ -1,0 +1,21 @@
+.size-positioning {
+    margin-left: 1.50rem;
+    margin-top: 1.25rem;
+}
+
+.font {
+    color: #000;
+    font-family: var(--font);
+    font-size: 0.75rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+p {
+    margin-bottom: 2rem;
+}
+
+/* p:nth-child(1) {
+
+} */
