@@ -2,9 +2,9 @@ import style from "./InputLogin.module.css"
 
 export const InputLogin = (props) => {
     return(
-        <>
-            <p className={style["label-input"]}>{props.label}</p>
+        <div>
+            <label className={style["label-input"]}>{props.label}</label>
             <input className={style["input"]}></input>
-        </>
+        </div>
     )
 }
