@@ -1,0 +1,12 @@
+.label-input{
+    color: #000;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 63px;
+    height: 21px;
+    flex-shrink: 0;
+}
+

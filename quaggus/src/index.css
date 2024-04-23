@@ -1,6 +1,7 @@
 :root {
   font-family: "Roboto", sans-serif;
   --color-text: rgb(37, 37, 37);
+  --background-opacity: #FFFFFF70
 }
 
 * {
