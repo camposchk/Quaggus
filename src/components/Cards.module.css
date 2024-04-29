@@ -6,10 +6,10 @@
     border: 2px solid #E9D051;
     background: rgba(255, 255, 255, 0.50);
     margin-inline: 0.5rem;
+    margin-top: 1.25rem;
 }
 
 .center {
     display: flex;
     justify-content: center;
-    margin-top: 1.25rem;
 }

@@ -9,17 +9,17 @@ export const Cards = () => {
             <div className={style["center"]}>
                 <card className={style["card-styling"]}>
                     <div className={style["center"]}>
-                        <img src={camiseta2} alt="Camiseta Real Madrid"/>
+                        <img src={camiseta2} alt="Camiseta Real Madrid" style={{marginTop: 20}}/>
                     </div>
                 </card>
                 <card className={style["card-styling"]}>
                     <div className={style["center"]}>
-                        <img src={camiseta3} alt="Camiseta Real Madrid" />
+                        <img src={camiseta3} alt="Camiseta Real Madrid" style={{marginRight: 5}}/>
                     </div>
                 </card>
                 <card className={style["card-styling"]}>
                     <div className={style["center"]}>
-                        <img src={camiseta4} alt="Camiseta Real Madrid"/>
+                        <img src={camiseta4} alt="Camiseta Real Madrid" style={{marginTop: -5}}/>
                     </div>
                 </card>
             </div>

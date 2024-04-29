@@ -4,3 +4,19 @@
     flex-shrink: 0;
     background-image: url("./assets/Backgrounds/Background3.png");
 }
+
+.logo {
+    width: 74px;
+    height: 69px;
+    flex-shrink: 0;
+    margin-left: 271px;
+    margin-top: 25px;
+}
+
+.back {
+    width: 45px;
+    height: 45px;
+    flex-shrink: 0;
+    margin-left: 20px;
+    margin-top: 30px;
+}
