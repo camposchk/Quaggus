@@ -20,11 +20,11 @@ export default function Login() {
                 <hr className={style["line"]}></hr>
             </div>
             <div className={style["buttons"]}>
-                <LoginWith text="Entrar com Google" image="./assets/Icons/google.png"/>
-                <LoginWith text="Entrar com Facebook" image="./assets/Icons/facebook.png"/>
+                <LoginWith text="Entrar com Google" image="../assets/Icons/google.png"/>
+                <LoginWith text="Entrar com Facebook" image="../assets/Icons/facebook.png"/>
                 <SignUpBtn text="Cadastre-se agora" />
             </div>
-            <img src="./assets/quagga-3.png" className={style["image"]}/>
+            <img src="../assets/quagga-3.png" className={style["image"]}/>
         </div>
     )
 }
