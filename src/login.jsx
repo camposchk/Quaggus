@@ -1,4 +1,4 @@
-import style from "./Login.module.css"
+import style from "./login.module.css"
 import { InputLogin } from "./components/InputLogin"
 import { YellowButton } from "./components/YellowButton"
 import { LoginWith } from "./components/LoginWith"
