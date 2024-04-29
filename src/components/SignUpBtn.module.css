@@ -1,11 +1,9 @@
 .btn-styling{
-    width: 26.875rem;
-    height: 58.25rem;
+    width: 17.64888rem;
+    height: 3.08425rem;
     flex-shrink: 0;
     border-radius: 1.25rem;
-    width: 10.5625rem;
-    height: 1.3125rem;
-    flex-shrink: 0;
+    border: 2px solid #000;
     color: #1F1F1F;
     font-family: Roboto;
     font-size: 1.25rem;

@@ -24,6 +24,7 @@ export default function Login() {
                 <LoginWith text="Entrar com Facebook" image="src/assets/Icons/facebook.png"/>
                 <SignUpBtn text="Cadastre-se agora" />
             </div>
+            <img src="src/assets/quagga-3.png" className={style["image"]}/>
         </div>
     )
 }
