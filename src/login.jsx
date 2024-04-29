@@ -3,6 +3,9 @@ import { InputLogin } from "./components/InputLogin"
 import { YellowButton } from "./components/YellowButton"
 import { LoginWith } from "./components/LoginWith"
 import { SignUpBtn } from "./components/SignUpBtn"
+import google from "src/assets/Icons/google.png"
+import facebook from "src/assets/Icons/facebook.png"
+import quagga from "src/assets/quagga-3.png"
 
 export default function Login() {
     return(
@@ -20,11 +23,11 @@ export default function Login() {
                 <hr className={style["line"]}></hr>
             </div>
             <div className={style["buttons"]}>
-                <LoginWith text="Entrar com Google" image="../assets/Icons/google.png"/>
-                <LoginWith text="Entrar com Facebook" image="../assets/Icons/facebook.png"/>
+                <LoginWith text="Entrar com Google" image={google}/>
+                <LoginWith text="Entrar com Facebook" image={facebook}/>
                 <SignUpBtn text="Cadastre-se agora" />
             </div>
-            <img src="../assets/quagga-3.png" className={style["image"]}/>
+            <img src={quagga} className={style["image"]}/>
         </div>
     )
 }
