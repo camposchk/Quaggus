@@ -3,9 +3,9 @@ import { InputLogin } from "./components/InputLogin"
 import { YellowButton } from "./components/YellowButton"
 import { LoginWith } from "./components/LoginWith"
 import { SignUpBtn } from "./components/SignUpBtn"
-import google from "src/assets/Icons/google.png"
-import facebook from "src/assets/Icons/facebook.png"
-import quagga from "src/assets/quagga-3.png"
+import google from "./assets/Icons/google.png"
+import facebook from "./assets/Icons/facebook.png"
+import quagga from "./assets/quagga-3.png"
 
 export default function Login() {
     return(
