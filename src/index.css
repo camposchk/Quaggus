@@ -2,6 +2,7 @@
   /* font-family: "Inter", sans-serif; */
   --color-text: rgb(37, 37, 37);
   --font: "Inter", sans-serif;
+  --background-opacity: #FFFFFF70;
 }
 
 * {

@@ -1,0 +1,23 @@
+.btn-styling{
+    width: 17.64888rem;
+    height: 3.08425rem;
+    flex-shrink: 0;
+    border-radius: 1.25rem;
+    background: #FFF;
+    color: #1F1F1F;
+    font-family: Roboto;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.image{
+    width: 1.99906rem;
+    height: 1.99906rem;
+    flex-shrink: 0;
+}
